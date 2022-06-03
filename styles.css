@@ -1,3 +1,17 @@
 * {
     background-color: red;
 }
+
+.grid-container {
+    display: grid;
+    width: 800px;
+    height: 800px;
+    background-color: white;
+}
+
+.grid-element {
+    background-color: lightblue;
+    border-style: solid;
+    border-color: black;
+    border-width: thin;
+}
